@@ -88,7 +88,7 @@ const Sidebar = () => {
             </div>
 
             <div className=" text-gray-400 flex flex-row justify-evenly">
-                <a href="https://github.com/rutikwankhade/devspace" target="_blank" rel="noreferrer" className="flex">
+                <a href="https://github.com/uvacoder/abc-devfeed" target="_blank" rel="noreferrer" className="flex">
                     <span className="text-sm font-semibold  hover:text-gray-600">
                         ⭐ Star on Github
                     </span>
@@ -96,7 +96,7 @@ const Sidebar = () => {
 
                 <a href="https://rutikwankhade.dev" target="_blank" rel="noreferrer" className="flex">
                     <span className="text-sm ml-auto mr-2 font-semibold hover:text-gray-600">
-                        Rutik Wankhade
+                        uvacoder
                     </span>
                 </a>
             </div>
