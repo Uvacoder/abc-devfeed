@@ -19,7 +19,7 @@ const Sidebar = () => {
                 <span className="bg-indigo-100 p-2 text-2xl rounded-xl mr-2">🚀</span>
                 <div>
                     <h1 className="text-2xl text-indigo-500 font-bold   ">
-                        Devspace
+                        Devfeed
                     </h1>
                     <span className="text-gray-500 italic text-sm">
                         Top posts from the best dev sites.
